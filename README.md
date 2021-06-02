@@ -29,4 +29,4 @@ This match corresponds to the 18/19 Champions League Final game between Liverpoo
 
 *Data used from [Statsbomb](https://statsbomb.com), work mainly done by the [mplsoccer](https://mplsoccer.readthedocs.io) library*.
 
-![page3image380034672](blob:https://stackedit.io/553a19de-8df6-4188-a701-d9b7906764ac)
+<img width="445" alt="SB_Regular" src="https://user-images.githubusercontent.com/23354346/120564687-bed13c80-c40b-11eb-86b6-f72117e860da.png">
