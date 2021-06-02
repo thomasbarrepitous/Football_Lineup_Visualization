@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Statsbomb data
-/data
+data/
